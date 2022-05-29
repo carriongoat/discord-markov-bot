@@ -10,7 +10,9 @@ def bot_init():
     global enabled_channels
     global channel_list_path
     with open(channel_list_path) as channel_list_file:
-        enabled_channels = [int(i) for i in channel_list_file.read().splitlines()]
+        temp_list = [int(i) for i in channel_list_file.read().splitlines()]
+        if temp_list:
+            enabled_channels = [int(i) for i in channel_list_file.read().splitlines()]
 
 
 def add_message(message):
