@@ -1,4 +1,4 @@
-`                               THE ANTI-LICENSE
+```                               THE ANTI-LICENSE
                                     ver. β
 
                             This is not a license.
@@ -29,3 +29,4 @@ It's illogical and harmful to artificially limit that which abounds without end.
                            Do not let anyone usurp it.
 
                                 Gloria Discordia.
+```
