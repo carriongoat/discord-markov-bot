@@ -1,4 +1,4 @@
-###markov chain generator for discord
+### markov chain generator for discord
 
 
 this was developed in about a week by a programmer and a funny doggy hopped up on vyvanse who was too wired not to try and pull this off. we based this bot's functionality and it's markov chain tuning on genAI, who's death inspired this bot
