@@ -1,4 +1,4 @@
-                               THE ANTI-LICENSE
+`                               THE ANTI-LICENSE
                                     ver. β
 
                             This is not a license.
